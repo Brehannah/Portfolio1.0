@@ -1,0 +1,24 @@
+{
+  "name": "portfolio1.0",
+  "version": "1.0.0",
+  "description": "Link to my portfolio page file:///Users/brehannah/Desktop/BootCamp/bhannah.github.io/index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brehannah/bhannah.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brehannah/bhannah.github.io/issues"
+  },
+  "homepage": "https://github.com/Brehannah/bhannah.github.io#readme",
+  "keywords": [],
+  "dependencies": {
+    "node": "^14.11.0",
+    "nodejs": "0.0.0"
+  }
+}
